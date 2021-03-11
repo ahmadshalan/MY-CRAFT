@@ -1,5 +1,4 @@
 
-
 ul {
 
 float: right;
@@ -11,8 +10,6 @@ ul li {
 }
 
 ul li a{
-
-    
     text-decoration: none;
     padding: 10px;
     color:#F5CA32;
@@ -83,7 +80,7 @@ footer #insan1{
 }
 
 .footer-wave-path {
-    fill: #FFFFF2;
+    fill: #027B9A;
 }
 
 .footer-content {
