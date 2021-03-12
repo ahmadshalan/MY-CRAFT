@@ -74,9 +74,10 @@ background-color: #027B9A;
 .vertical-menu {
     margin-top: 100px;
     margin-bottom: 100px;
-    width: 45%;
-    height: 300px;
+    width: 35%;
+    height: 600px;
     overflow-y: auto;
+    margin-left: 20px;
   }
   .vertical-menu a {
     background-color: #eee;
@@ -85,12 +86,13 @@ background-color: #027B9A;
     padding: 12px;
     text-decoration: none;
     font-size: larger;
+    text-align: center;
 
   }
   .vertical-menu a img{
 
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 400px;
     margin-right: 60px;
     
   }
@@ -98,7 +100,26 @@ background-color: #027B9A;
     background-color: #ccc;
   }
   
-
+  .vertical-menu2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 35%;
+    height: 600px;
+    overflow-y: auto;
+    margin-left: 20px;
+  }
+  .vertical-menu2 a {
+    background-color: #eee;
+    color: blueviolet;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    font-size: larger;
+    text-align: center;
+  }
+  .vertical-menu2 a:hover {
+    background-color: #ccc;
+  }
 footer #insan2{
     margin-top: 5px;
     float:right;
