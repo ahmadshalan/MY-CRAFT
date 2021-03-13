@@ -108,6 +108,32 @@ background-color: #027B9A;
     overflow-y: auto;
     margin-left: 20px;
   }
+
+  #one{
+      margin-bottom: 50px;
+      margin-top: 50px;
+  }
+
+  #two{
+    margin-bottom: 50px;
+      margin-top: 50px;
+  }
+  #pics{
+      width: 900px;
+      height: 600px;
+      float: right;
+      margin-top: 0px;
+      margin-right: 0px;
+  }
+
+  #videos{
+    width: 900px;
+      height: 600px;
+      float: right;
+      margin-top: 0px;
+      margin-right: 0px;
+
+  }
   .vertical-menu2 a {
     background-color: #eee;
     color: blueviolet;
